@@ -1,0 +1,82 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "ee9b7e18-9b4f-4f42-b1a5-3a2f93cd3bbe",
+        "line": 13,
+        "version": 1024,
+        "index": 413
+      }
+    ],
+    "public/css": [
+      {
+        "id": "10198e5b-45cf-4026-8e20-d823c694c20e",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "public/css/estilo.css": [
+      {
+        "id": "483de26c-d672-4c7d-9658-3a19a4a0a662",
+        "line": 3,
+        "version": 373,
+        "index": 36
+      }
+    ],
+    "public/estilo.css": [
+      {
+        "id": "ebd4b30a-e648-4903-b8b6-c9f8d4122e92",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "public/imagen/imagen": [
+      {
+        "id": "34ab2975-ba94-485f-b212-f8aef0b4da60",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "views/contatos": [
+      {
+        "id": "681731fb-46de-4851-ae08-606850d587e3",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "views/contatos/index.html": [
+      {
+        "id": "8818404a-8be8-49eb-b148-4f5c34991a93",
+        "line": 1,
+        "version": 43,
+        "index": 0
+      }
+    ],
+    "views/index.ejs": [
+      {
+        "id": "acad4de9-e931-416b-a523-d58865efc382",
+        "line": 1,
+        "version": 1494,
+        "index": 0
+      },
+      {
+        "id": "f6eca8ed-925c-4ab2-b7b3-af709a56d31e",
+        "line": 17,
+        "version": 1494,
+        "index": 840
+      }
+    ],
+    "views/time/index.ejs": [
+      {
+        "id": "0e5576a3-5c5e-4f0e-b847-07ac1ff6d7ce",
+        "line": 1,
+        "version": 449,
+        "index": 0
+      }
+    ]
+  }
+}
