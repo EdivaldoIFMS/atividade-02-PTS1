@@ -20,7 +20,7 @@
       {
         "id": "483de26c-d672-4c7d-9658-3a19a4a0a662",
         "line": 3,
-        "version": 373,
+        "version": 423,
         "index": 36
       }
     ],
@@ -68,6 +68,14 @@
         "line": 17,
         "version": 1494,
         "index": 840
+      }
+    ],
+    "views/noticias/index.ejs": [
+      {
+        "id": "fc6230e0-c5ea-4b0c-a7a0-be31eb60004c",
+        "line": 12,
+        "version": 317,
+        "index": 353
       }
     ],
     "views/time/index.ejs": [
